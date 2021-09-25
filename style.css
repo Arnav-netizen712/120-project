@@ -1,0 +1,14 @@
+body{
+    background-color: cornsilk;
+}
+.bob{
+    background-color: dimgray;
+    border-radius: 60px;
+}
+img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: cornsilk;
+    margin-left: 3px;
+}
+
